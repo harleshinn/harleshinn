@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a ![Custom Badge](https://img.shields.io/badge/Frontend-Developer-0A66C2?logo=code&logoColor=white), my code runs on 🧉 and console.log. I believe in clean code, honest estimates, and the sacred art of recalculating both.
+I'm a *Frontend Developer*, my code runs on 🧉 and console.log. I believe in clean code, honest estimates, and the sacred art of recalculating both.
 <br>
 🧠 Problem Solver • 🧩 Realist • 🪄 Clean(ish) Coder
 
